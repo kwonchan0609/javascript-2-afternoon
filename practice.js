@@ -91,6 +91,8 @@ console.log(backPack)
 
 
 
+
+
 ////////// PROBLEM 4 //////////
 
 // Do not edit the code below.
@@ -162,8 +164,6 @@ function makePerson(name, birthday, ssn){
   return {name, birthday, ssn}
 }
 
-
-
 ////////// PROBLEM 7 //////////
 
 /*
@@ -174,5 +174,4 @@ function makePerson(name, birthday, ssn){
 function makeCard(cardNumber,expirationDate,securityCode){
   return{cardNumber,expirationDate,securityCode}
 }
-
 
